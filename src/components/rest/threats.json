@@ -1,0 +1,450 @@
+[
+  {
+    "d": {
+      "results": [
+        {
+          "__metadata": {
+            "id": "Web/Lists(guid'fd8e88b1-e804-408c-9aa4-4ed2ca59d412')/Items(9)",
+            "uri": ".../_api/Web/Lists(guid'fd8e88b1-e804-408c-9aa4-4ed2ca59d412')/Items(9)",
+            "etag": "\"30\"",
+            "type": "SP.Data.Master_x0020_Threat_x0020_ListListItem"
+          },
+          "Threat_x0020_Location": {
+            "__metadata": {
+              "id": "26c50495-64a9-49b8-8ad8-82020937995a",
+              "type": "SP.Data.Threat_x0020_LocationListItem"
+            },
+            "Title": "RockyTop-1",
+            "Range": "2205",
+            "Lat_x002f_Lon_x0020__x0028_DMS_x": "N64 38.004, W146 35.980",
+            "Lat_x0020_DD": "64.6334",
+            "Lon_x0020_DD": "-146.599666666667",
+            "Bullseye_x0020__x0028_MIZZI_x002": "284/32",
+            "Elevation_x0020__x0028_ft_x002e_": "2421",
+            "Accuracy": "UNK",
+            "Coord_x0020_Source": null,
+            "Coord_x0020_Recorded_x0020_Date": null
+          },
+          "Id": 9,
+          "System_x0020_Type": "Red Team",
+          "Status": "GREEN",
+          "ETIC": null,
+          "Remarks": null,
+          "Equip_x002f_Threat": "FK-11",
+          "Schedulable": "Yes",
+          "Operational": "Yes",
+          "ID": 9,
+          "Modified": "2022-05-13T16:31:09Z"
+        },
+        {
+          "__metadata": {
+            "id": "Web/Lists(guid'fd8e88b1-e804-408c-9aa4-4ed2ca59d412')/Items(29)",
+            "uri": ".../_api/Web/Lists(guid'fd8e88b1-e804-408c-9aa4-4ed2ca59d412')/Items(29)",
+            "etag": "\"44\"",
+            "type": "SP.Data.Master_x0020_Threat_x0020_ListListItem"
+          },
+          "Threat_x0020_Location": {
+            "__metadata": {
+              "id": "f116f0d0-7769-431b-8419-b5770a54a4de",
+              "type": "SP.Data.Threat_x0020_LocationListItem"
+            },
+            "Title": "Oscar-1",
+            "Range": "2205",
+            "Lat_x002f_Lon_x0020__x0028_DMS_x": "N64 38.4190, W146 40.3656",
+            "Lat_x0020_DD": "64.6403166666667",
+            "Lon_x0020_DD": "-146.67276",
+            "Bullseye_x0020__x0028_MIZZI_x002": "282/34",
+            "Elevation_x0020__x0028_ft_x002e_": "1889",
+            "Accuracy": "CAT1",
+            "Coord_x0020_Source": null,
+            "Coord_x0020_Recorded_x0020_Date": null
+          },
+          "Id": 29,
+          "System_x0020_Type": "Bad Team",
+          "Status": "GREEN",
+          "ETIC": null,
+          "Remarks": null,
+          "Equip_x002f_Threat": "FK-3",
+          "Schedulable": "Yes",
+          "Operational": "Yes",
+          "ID": 29,
+          "Modified": "2022-03-29T16:50:15Z"
+        },
+        {
+          "__metadata": {
+            "id": "Web/Lists(guid'fd8e88b1-e804-408c-9aa4-4ed2ca59d412')/Items(48)",
+            "uri": ".../_api/Web/Lists(guid'fd8e88b1-e804-408c-9aa4-4ed2ca59d412')/Items(48)",
+            "etag": "\"31\"",
+            "type": "SP.Data.Master_x0020_Threat_x0020_ListListItem"
+          },
+          "Threat_x0020_Location": {
+            "__metadata": {
+              "id": "5d570d81-8205-48e4-a1b1-88be2cc03e1e",
+              "type": "SP.Data.Threat_x0020_LocationListItem"
+            },
+            "Title": "Uniform-1",
+            "Range": "2205",
+            "Lat_x002f_Lon_x0020__x0028_DMS_x": "N64 38.7225, W146 25.4907",
+            "Lat_x0020_DD": "64.645375",
+            "Lon_x0020_DD": "-146.424845",
+            "Bullseye_x0020__x0028_MIZZI_x002": "287/29",
+            "Elevation_x0020__x0028_ft_x002e_": "2398",
+            "Accuracy": "CAT1",
+            "Coord_x0020_Source": null,
+            "Coord_x0020_Recorded_x0020_Date": null
+          },
+          "Id": 48,
+          "System_x0020_Type": "IOT",
+          "Status": "GREEN",
+          "ETIC": null,
+          "Remarks": null,
+          "Equip_x002f_Threat": "FK-15",
+          "Schedulable": "Yes",
+          "Operational": "Yes",
+          "ID": 48,
+          "Modified": "2022-05-13T16:32:30Z"
+        },
+        {
+          "__metadata": {
+            "id": "Web/Lists(guid'fd8e88b1-e804-408c-9aa4-4ed2ca59d412')/Items(50)",
+            "uri": ".../_api/Web/Lists(guid'fd8e88b1-e804-408c-9aa4-4ed2ca59d412')/Items(50)",
+            "etag": "\"23\"",
+            "type": "SP.Data.Master_x0020_Threat_x0020_ListListItem"
+          },
+          "Threat_x0020_Location": {
+            "__metadata": {
+              "id": "cfc7eb5b-a15a-40c7-bfc2-9712ead2a509",
+              "type": "SP.Data.Threat_x0020_LocationListItem"
+            },
+            "Title": "Yankee4-1",
+            "Range": "2205",
+            "Lat_x002f_Lon_x0020__x0028_DMS_x": "N64 39.9833, W146 29.7883",
+            "Lat_x0020_DD": "64.6663883333333",
+            "Lon_x0020_DD": "-146.496471666667",
+            "Bullseye_x0020__x0028_MIZZI_x002": "289/31",
+            "Elevation_x0020__x0028_ft_x002e_": "2133",
+            "Accuracy": "UNK",
+            "Coord_x0020_Source": null,
+            "Coord_x0020_Recorded_x0020_Date": null
+          },
+          "Id": 50,
+          "System_x0020_Type": "IOT",
+          "Status": "RED",
+          "ETIC": "28 Apr 22",
+          "Remarks": "Comm Issue",
+          "Equip_x002f_Threat": "FK-15",
+          "Schedulable": "Yes",
+          "Operational": "Yes",
+          "ID": 50,
+          "Modified": "2022-04-26T23:48:41Z"
+        },
+        {
+          "__metadata": {
+            "id": "Web/Lists(guid'fd8e88b1-e804-408c-9aa4-4ed2ca59d412')/Items(58)",
+            "uri": ".../_api/Web/Lists(guid'fd8e88b1-e804-408c-9aa4-4ed2ca59d412')/Items(58)",
+            "etag": "\"26\"",
+            "type": "SP.Data.Master_x0020_Threat_x0020_ListListItem"
+          },
+          "Threat_x0020_Location": {
+            "__metadata": {
+              "id": "76261b7f-ba00-4d6f-94fa-aeaa32795043",
+              "type": "SP.Data.Threat_x0020_LocationListItem"
+            },
+            "Title": "Zulu3-1",
+            "Range": "2202",
+            "Lat_x002f_Lon_x0020__x0028_DMS_x": "N64 02.200, W146 18.504",
+            "Lat_x0020_DD": "64.0366666666667",
+            "Lon_x0020_DD": "-146.3084",
+            "Bullseye_x0020__x0028_MIZZI_x002": "210/29",
+            "Elevation_x0020__x0028_ft_x002e_": "1501",
+            "Accuracy": "UNK",
+            "Coord_x0020_Source": null,
+            "Coord_x0020_Recorded_x0020_Date": null
+          },
+          "Id": 58,
+          "System_x0020_Type": "IOT",
+          "Status": "AMBER",
+          "ETIC": "31 May 22",
+          "Remarks": "B-Side Low RF Fault",
+          "Equip_x002f_Threat": "FK-6",
+          "Schedulable": "Yes",
+          "Operational": "Yes",
+          "ID": 58,
+          "Modified": "2022-04-26T23:45:35Z"
+        },
+        {
+          "__metadata": {
+            "id": "Web/Lists(guid'fd8e88b1-e804-408c-9aa4-4ed2ca59d412')/Items(59)",
+            "uri": ".../_api/Web/Lists(guid'fd8e88b1-e804-408c-9aa4-4ed2ca59d412')/Items(59)",
+            "etag": "\"17\"",
+            "type": "SP.Data.Master_x0020_Threat_x0020_ListListItem"
+          },
+          "Threat_x0020_Location": {
+            "__metadata": {
+              "id": "9f867f97-9575-475a-84b7-6664323871f0",
+              "type": "SP.Data.Threat_x0020_LocationListItem"
+            },
+            "Title": "Zulu4-1",
+            "Range": "2202",
+            "Lat_x002f_Lon_x0020__x0028_DMS_x": "N63 58.403, W146 34.142",
+            "Lat_x0020_DD": "63.9733833333333",
+            "Lon_x0020_DD": "-146.569033333333",
+            "Bullseye_x0020__x0028_MIZZI_x002": "214/37",
+            "Elevation_x0020__x0028_ft_x002e_": "2224",
+            "Accuracy": "UNK",
+            "Coord_x0020_Source": "GEGD",
+            "Coord_x0020_Recorded_x0020_Date": "2021-08-10T08:00:00Z"
+          },
+          "Id": 59,
+          "System_x0020_Type": "IOT",
+          "Status": "GREEN",
+          "ETIC": null,
+          "Remarks": null,
+          "Equip_x002f_Threat": "FK-2",
+          "Schedulable": "Yes",
+          "Operational": "Yes",
+          "ID": 59,
+          "Modified": "2022-04-05T15:59:14Z"
+        },
+        {
+          "__metadata": {
+            "id": "Web/Lists(guid'fd8e88b1-e804-408c-9aa4-4ed2ca59d412')/Items(63)",
+            "uri": ".../_api/Web/Lists(guid'fd8e88b1-e804-408c-9aa4-4ed2ca59d412')/Items(63)",
+            "etag": "\"24\"",
+            "type": "SP.Data.Master_x0020_Threat_x0020_ListListItem"
+          },
+          "Threat_x0020_Location": {
+            "__metadata": {
+              "id": "269efa57-1b3c-46d6-9171-18e4cb97ba29",
+              "type": "SP.Data.Threat_x0020_LocationListItem"
+            },
+            "Title": "Zulu8A-1",
+            "Range": "2202",
+            "Lat_x002f_Lon_x0020__x0028_DMS_x": "N63 50.1585, W145 49.3205",
+            "Lat_x0020_DD": "63.835975",
+            "Lon_x0020_DD": "-145.822008333333",
+            "Bullseye_x0020__x0028_MIZZI_x002": "178/33",
+            "Elevation_x0020__x0028_ft_x002e_": "2167",
+            "Accuracy": "Cat 4",
+            "Coord_x0020_Source": null,
+            "Coord_x0020_Recorded_x0020_Date": null
+          },
+          "Id": 63,
+          "System_x0020_Type": "IOT",
+          "Status": "GREEN",
+          "ETIC": null,
+          "Remarks": null,
+          "Equip_x002f_Threat": "FK-3",
+          "Schedulable": "Yes",
+          "Operational": "Yes",
+          "ID": 63,
+          "Modified": "2022-02-08T17:51:57Z"
+        },
+        {
+          "__metadata": {
+            "id": "Web/Lists(guid'fd8e88b1-e804-408c-9aa4-4ed2ca59d412')/Items(76)",
+            "uri": ".../_api/Web/Lists(guid'fd8e88b1-e804-408c-9aa4-4ed2ca59d412')/Items(76)",
+            "etag": "\"42\"",
+            "type": "SP.Data.Master_x0020_Threat_x0020_ListListItem"
+          },
+          "Threat_x0020_Location": {
+            "__metadata": {
+              "id": "adc6d304-24aa-4608-b5ef-d9e412bf3e13",
+              "type": "SP.Data.Threat_x0020_LocationListItem"
+            },
+            "Title": "November-1",
+            "Range": "2205",
+            "Lat_x002f_Lon_x0020__x0028_DMS_x": "N64 37.7997, W146 32.6172",
+            "Lat_x0020_DD": "64.629995",
+            "Lon_x0020_DD": "-146.54362",
+            "Bullseye_x0020__x0028_MIZZI_x002": "284/31",
+            "Elevation_x0020__x0028_ft_x002e_": "2812",
+            "Accuracy": "CAT1",
+            "Coord_x0020_Source": null,
+            "Coord_x0020_Recorded_x0020_Date": null
+          },
+          "Id": 76,
+          "System_x0020_Type": "Red Team",
+          "Status": "RED",
+          "ETIC": "28 Apr 22",
+          "Remarks": "Video Tracker INOP. Vehicle will not start.",
+          "Equip_x002f_Threat": "FK-15",
+          "Schedulable": "Yes",
+          "Operational": "Yes",
+          "ID": 76,
+          "Modified": "2022-05-13T16:31:24Z"
+        },
+        {
+          "__metadata": {
+            "id": "Web/Lists(guid'fd8e88b1-e804-408c-9aa4-4ed2ca59d412')/Items(77)",
+            "uri": ".../_api/Web/Lists(guid'fd8e88b1-e804-408c-9aa4-4ed2ca59d412')/Items(77)",
+            "etag": "\"29\"",
+            "type": "SP.Data.Master_x0020_Threat_x0020_ListListItem"
+          },
+          "Threat_x0020_Location": {
+            "__metadata": {
+              "id": "82eb61ff-dc43-403f-b8bb-4033b506333e",
+              "type": "SP.Data.Threat_x0020_LocationListItem"
+            },
+            "Title": "Yankee2-1",
+            "Range": "2205",
+            "Lat_x002f_Lon_x0020__x0028_DMS_x": "N64 43.1110, W146 30.3883",
+            "Lat_x0020_DD": "64.7185166666667",
+            "Lon_x0020_DD": "-146.506471666667",
+            "Bullseye_x0020__x0028_MIZZI_x002": "293/33",
+            "Elevation_x0020__x0028_ft_x002e_": "1575",
+            "Accuracy": "CAT1",
+            "Coord_x0020_Source": null,
+            "Coord_x0020_Recorded_x0020_Date": null
+          },
+          "Id": 77,
+          "System_x0020_Type": "IOT",
+          "Status": "AMBER",
+          "ETIC": "28 Apr 22",
+          "Remarks": "B-Side Low RF Fault",
+          "Equip_x002f_Threat": "FK-2 (TK5)",
+          "Schedulable": "Yes",
+          "Operational": "Yes",
+          "ID": 77,
+          "Modified": "2022-04-26T23:51:01Z"
+        },
+        {
+          "__metadata": {
+            "id": "Web/Lists(guid'fd8e88b1-e804-408c-9aa4-4ed2ca59d412')/Items(79)",
+            "uri": ".../_api/Web/Lists(guid'fd8e88b1-e804-408c-9aa4-4ed2ca59d412')/Items(79)",
+            "etag": "\"8\"",
+            "type": "SP.Data.Master_x0020_Threat_x0020_ListListItem"
+          },
+          "Threat_x0020_Location": {
+            "__metadata": {
+              "id": "27180456-c28a-4fdd-9f42-bbf733e753c0",
+              "type": "SP.Data.Threat_x0020_LocationListItem"
+            },
+            "Title": "SmokeyFKMs",
+            "Range": "2205",
+            "Lat_x002f_Lon_x0020__x0028_DMS_x": "N64 37.220, W146 39.160",
+            "Lat_x0020_DD": "64.6203333333333",
+            "Lon_x0020_DD": "-146.652666666667",
+            "Bullseye_x0020__x0028_MIZZI_x002": "-",
+            "Elevation_x0020__x0028_ft_x002e_": "2000",
+            "Accuracy": "UNK",
+            "Coord_x0020_Source": null,
+            "Coord_x0020_Recorded_x0020_Date": null
+          },
+          "Id": 79,
+          "System_x0020_Type": "Bad Team",
+          "Status": "GREEN",
+          "ETIC": null,
+          "Remarks": "Requires a 14-day notification",
+          "Equip_x002f_Threat": "Smokey FKM",
+          "Schedulable": "Yes",
+          "Operational": "Yes",
+          "ID": 79,
+          "Modified": "2021-10-26T16:37:20Z"
+        },
+        {
+          "__metadata": {
+            "id": "Web/Lists(guid'fd8e88b1-e804-408c-9aa4-4ed2ca59d412')/Items(80)",
+            "uri": ".../_api/Web/Lists(guid'fd8e88b1-e804-408c-9aa4-4ed2ca59d412')/Items(80)",
+            "etag": "\"8\"",
+            "type": "SP.Data.Master_x0020_Threat_x0020_ListListItem"
+          },
+          "Threat_x0020_Location": {
+            "__metadata": {
+              "id": "db6f1926-fe48-4290-83e5-4ce65e3470cc",
+              "type": "SP.Data.Threat_x0020_LocationListItem"
+            },
+            "Title": "Mobile",
+            "Range": "2205",
+            "Lat_x002f_Lon_x0020__x0028_DMS_x": ", ",
+            "Lat_x0020_DD": "256",
+            "Lon_x0020_DD": "256",
+            "Bullseye_x0020__x0028_MIZZI_x002": "-",
+            "Elevation_x0020__x0028_ft_x002e_": "2000",
+            "Accuracy": "UNK",
+            "Coord_x0020_Source": null,
+            "Coord_x0020_Recorded_x0020_Date": null
+          },
+          "Id": 80,
+          "System_x0020_Type": "Bad Team",
+          "Status": "GREEN",
+          "ETIC": null,
+          "Remarks": null,
+          "Equip_x002f_Threat": "MANPAD",
+          "Schedulable": "Yes",
+          "Operational": "Yes",
+          "ID": 80,
+          "Modified": "2021-10-26T16:37:20Z"
+        },
+        {
+          "__metadata": {
+            "id": "Web/Lists(guid'fd8e88b1-e804-408c-9aa4-4ed2ca59d412')/Items(115)",
+            "uri": ".../_api/Web/Lists(guid'fd8e88b1-e804-408c-9aa4-4ed2ca59d412')/Items(115)",
+            "etag": "\"14\"",
+            "type": "SP.Data.Master_x0020_Threat_x0020_ListListItem"
+          },
+          "Threat_x0020_Location": {
+            "__metadata": {
+              "id": "59b49a1a-2150-4151-8cd6-39584bc77f0b",
+              "type": "SP.Data.Threat_x0020_LocationListItem"
+            },
+            "Title": "BearBait-1",
+            "Range": "2205",
+            "Lat_x002f_Lon_x0020__x0028_DMS_x": "N64 43.033, W146 40.423",
+            "Lat_x0020_DD": "64.7172166666667",
+            "Lon_x0020_DD": "-146.673716666667",
+            "Bullseye_x0020__x0028_MIZZI_x002": "289/37",
+            "Elevation_x0020__x0028_ft_x002e_": "2414",
+            "Accuracy": "UNK",
+            "Coord_x0020_Source": null,
+            "Coord_x0020_Recorded_x0020_Date": null
+          },
+          "Id": 115,
+          "System_x0020_Type": "Red Team",
+          "Status": "AMBER",
+          "ETIC": "29 Apr 22",
+          "Remarks": "Interference on select channels",
+          "Equip_x002f_Threat": " Fork Awake",
+          "Schedulable": "Yes",
+          "Operational": "Yes",
+          "ID": 115,
+          "Modified": "2022-04-26T23:56:31Z"
+        },
+        {
+          "__metadata": {
+            "id": "Web/Lists(guid'fd8e88b1-e804-408c-9aa4-4ed2ca59d412')/Items(117)",
+            "uri": ".../_api/Web/Lists(guid'fd8e88b1-e804-408c-9aa4-4ed2ca59d412')/Items(117)",
+            "etag": "\"4\"",
+            "type": "SP.Data.Master_x0020_Threat_x0020_ListListItem"
+          },
+          "Threat_x0020_Location": {
+            "__metadata": {
+              "id": "a7eeba66-4574-4f0f-abec-0eb9181647e7",
+              "type": "SP.Data.Threat_x0020_LocationListItem"
+            },
+            "Title": "Charlie Yeti",
+            "Range": "2205",
+            "Lat_x002f_Lon_x0020__x0028_DMS_x": "N64 35.2747, W146 43.6468",
+            "Lat_x0020_DD": "64.5879116666667",
+            "Lon_x0020_DD": "-146.727446666667",
+            "Bullseye_x0020__x0028_MIZZI_x002": "UNK",
+            "Elevation_x0020__x0028_ft_x002e_": "2217’ MSL",
+            "Accuracy": "+/- 1m",
+            "Coord_x0020_Source": "Garmin Foretrex",
+            "Coord_x0020_Recorded_x0020_Date": "2022-03-07T09:00:00Z"
+          },
+          "Id": 117,
+          "System_x0020_Type": "BigFoot-D",
+          "Status": "GREEN",
+          "ETIC": null,
+          "Remarks": null,
+          "Equip_x002f_Threat": " (BigFoot-D)",
+          "Schedulable": "Yes",
+          "Operational": "Yes",
+          "ID": 117,
+          "Modified": "2022-03-07T23:49:17Z"
+        }
+      ]
+    }
+  }
+]
